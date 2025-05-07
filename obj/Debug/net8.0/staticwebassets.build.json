@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "8983ScEWN+xCyKmTMzSqg8Sx+jpcvZKuwtERjcc0lOo=",
+  "Source": "CVGenerationSolution",
+  "BasePath": "_content/CVGenerationSolution",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CVGenerationSolution/wwwroot",
+      "Source": "CVGenerationSolution",
+      "ContentRoot": "/Users/Andre/Desktop/Development/CVGenerationSolution/wwwroot/",
+      "BasePath": "_content/CVGenerationSolution",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/Andre/Desktop/Development/CVGenerationSolution/wwwroot/data.json",
+      "SourceId": "CVGenerationSolution",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/Andre/Desktop/Development/CVGenerationSolution/wwwroot/",
+      "BasePath": "_content/CVGenerationSolution",
+      "RelativePath": "data.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/data.json"
+    },
+    {
+      "Identity": "/Users/Andre/Desktop/Development/CVGenerationSolution/wwwroot/savedContent.html",
+      "SourceId": "CVGenerationSolution",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/Andre/Desktop/Development/CVGenerationSolution/wwwroot/",
+      "BasePath": "_content/CVGenerationSolution",
+      "RelativePath": "savedContent.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/savedContent.html"
+    },
+    {
+      "Identity": "/Users/Andre/Desktop/Development/CVGenerationSolution/wwwroot/template.html",
+      "SourceId": "CVGenerationSolution",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/Andre/Desktop/Development/CVGenerationSolution/wwwroot/",
+      "BasePath": "_content/CVGenerationSolution",
+      "RelativePath": "template.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/template.html"
+    }
+  ]
+}

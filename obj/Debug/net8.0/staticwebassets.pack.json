@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/Andre/Desktop/Development/CVGenerationSolution/wwwroot/data.json",
+      "PackagePath": "staticwebassets/data.json"
+    },
+    {
+      "Id": "/Users/Andre/Desktop/Development/CVGenerationSolution/wwwroot/savedContent.html",
+      "PackagePath": "staticwebassets/savedContent.html"
+    },
+    {
+      "Id": "/Users/Andre/Desktop/Development/CVGenerationSolution/wwwroot/template.html",
+      "PackagePath": "staticwebassets/template.html"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.CVGenerationSolution.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.CVGenerationSolution.props",
+      "PackagePath": "build\\CVGenerationSolution.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.CVGenerationSolution.props",
+      "PackagePath": "buildMultiTargeting\\CVGenerationSolution.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.CVGenerationSolution.props",
+      "PackagePath": "buildTransitive\\CVGenerationSolution.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

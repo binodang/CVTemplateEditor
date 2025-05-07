@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Live Editor with Tools</title>
+  <link rel="stylesheet" href="style.css">
+
+  <style>
+    html, body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      font-family: sans-serif;
+      overflow: hidden;
+    }
+  
+    #toolbar {
+      position: fixed; /* important: fixed over everything */
+      top: 20px;
+      left: 20px;
+      background: white;
+      border: 1px solid #ccc;
+      padding: 10px;
+      z-index: 10000; /* very high to stay above iframe */
+      display: block; /* always visible */
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+    }
+  
+    iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+      z-index: 1; /* iframe stays under */
+      position: relative;
+    }
+  </style>
+  
+</head>
+<body>
+
+  <div id="toolbar">
+    <label for="fontSize">Font Size:</label>
+    <select id="fontSize">
+      <option value="-8">-8px</option>
+      <option value="-6">-6px</option>
+      <option value="-4">-4px</option>
+      <option value="-2">-2px</option>
+      <option value="-1.5">-1.5px</option>
+      <option value="-1">-1px</option>
+      <option value="-0.5">-0.5px</option>
+      <option value="-0.25">-0.25px</option>
+      <option value="0" selected>Default</option>
+      <option value="0.25">0.25px</option>
+      <option value="0.5">0.5px</option>
+      <option value="1">-1px</option>
+      <option value="1.5">1.5px</option>
+      <option value="2">+2px</option>
+      <option value="4">+4px</option>
+      <option value="6">+6px</option>
+      <option value="8">+8px</option>
+    </select>
+
+    <label for="lineHeight">Line Height:</label>
+    <select id="lineHeight">
+      <option value="1">1.0</option>
+      <option value="1.2" selected>Default</option>
+      <option value="1.4">1.4</option>
+      <option value="1.6">1.6</option>
+      <option value="1.8">1.8</option>
+      <option value="2">2.0</option>
+    </select>
+  
+    <label for="fontFamily">Font Family:</label>
+    <select id="fontFamily">
+      <option value="Archivo Narrow">Archivo Narrow</option>
+      <option value="Arial">Arial</option>
+      <option value="Times New Roman">Times New Roman</option>
+      <option value="Verdana">Verdana</option>
+      <option value="Courier New">Courier New</option>
+    </select>
+  
+    <label for="fontColor">Font Color:</label>
+    <input type="color" id="fontColor" value="#000000">
+  </div>
+  
+  <iframe id="preview" src="template1.html"></iframe>
+  
+  <script src="./main.js"></script>
+  
+</body>
+</html>
