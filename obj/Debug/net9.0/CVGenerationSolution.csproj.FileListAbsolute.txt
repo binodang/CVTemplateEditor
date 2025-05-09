@@ -1,41 +1,41 @@
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/bin/Debug/net9.0/appsettings.json
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/bin/Debug/net9.0/CVGenerationSolution.staticwebassets.runtime.json
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/bin/Debug/net9.0/CVGenerationSolution.staticwebassets.endpoints.json
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/bin/Debug/net9.0/CVGenerationSolution
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/bin/Debug/net9.0/CVGenerationSolution.deps.json
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/bin/Debug/net9.0/CVGenerationSolution.runtimeconfig.json
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/bin/Debug/net9.0/CVGenerationSolution.dll
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/bin/Debug/net9.0/CVGenerationSolution.pdb
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/bin/Debug/net9.0/DinkToPdf.dll
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/bin/Debug/net9.0/DocumentFormat.OpenXml.dll
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/bin/Debug/net9.0/DocumentFormat.OpenXml.Framework.dll
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/bin/Debug/net9.0/Newtonsoft.Json.dll
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/bin/Debug/net9.0/System.IO.Packaging.dll
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/CVGenerationSolution.csproj.AssemblyReference.cache
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/CVGenerationSolution.GeneratedMSBuildEditorConfig.editorconfig
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/CVGenerationSolution.AssemblyInfoInputs.cache
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/CVGenerationSolution.AssemblyInfo.cs
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/CVGenerationSolution.csproj.CoreCompileInputs.cache
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/CVGenerationSolution.MvcApplicationPartsAssemblyInfo.cache
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/CVGenerationSolution.sourcelink.json
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/scopedcss/bundle/CVGenerationSolution.styles.css
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/compressed/829cng4fa3-280xqnlg2x.gz
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/staticwebassets.build.json
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/staticwebassets.development.json
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/staticwebassets.build.endpoints.json
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/staticwebassets/msbuild.CVGenerationSolution.Microsoft.AspNetCore.StaticWebAssets.props
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/staticwebassets/msbuild.CVGenerationSolution.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/staticwebassets/msbuild.build.CVGenerationSolution.props
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.CVGenerationSolution.props
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.CVGenerationSolution.props
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/staticwebassets.pack.json
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/CVGenera.D1995001.Up2Date
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/CVGenerationSolution.dll
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/refint/CVGenerationSolution.dll
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/CVGenerationSolution.pdb
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/CVGenerationSolution.genruntimeconfig.cache
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/ref/CVGenerationSolution.dll
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/compressed/w3alp5jblb-m0l4gldvk5.gz
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/compressed/371v43dxo8-hb18veta0y.gz
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/compressed/vki41payv1-49igcdz8rb.gz
-/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/compressed/ny4ek5fskw-7iqj3ta76i.gz
+C:\Users\PC\CVTemplateEditor\bin\Debug\net9.0\appsettings.json
+C:\Users\PC\CVTemplateEditor\bin\Debug\net9.0\CVGenerationSolution.staticwebassets.runtime.json
+C:\Users\PC\CVTemplateEditor\bin\Debug\net9.0\CVGenerationSolution.staticwebassets.endpoints.json
+C:\Users\PC\CVTemplateEditor\bin\Debug\net9.0\CVGenerationSolution.exe
+C:\Users\PC\CVTemplateEditor\bin\Debug\net9.0\CVGenerationSolution.deps.json
+C:\Users\PC\CVTemplateEditor\bin\Debug\net9.0\CVGenerationSolution.runtimeconfig.json
+C:\Users\PC\CVTemplateEditor\bin\Debug\net9.0\CVGenerationSolution.dll
+C:\Users\PC\CVTemplateEditor\bin\Debug\net9.0\CVGenerationSolution.pdb
+C:\Users\PC\CVTemplateEditor\bin\Debug\net9.0\DinkToPdf.dll
+C:\Users\PC\CVTemplateEditor\bin\Debug\net9.0\DocumentFormat.OpenXml.dll
+C:\Users\PC\CVTemplateEditor\bin\Debug\net9.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\PC\CVTemplateEditor\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\PC\CVTemplateEditor\bin\Debug\net9.0\System.IO.Packaging.dll
+C:\Users\PC\CVTemplateEditor\obj\Debug\net9.0\CVGenerationSolution.csproj.AssemblyReference.cache
+C:\Users\PC\CVTemplateEditor\obj\Debug\net9.0\CVGenerationSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\CVTemplateEditor\obj\Debug\net9.0\CVGenerationSolution.AssemblyInfoInputs.cache
+C:\Users\PC\CVTemplateEditor\obj\Debug\net9.0\CVGenerationSolution.AssemblyInfo.cs
+C:\Users\PC\CVTemplateEditor\obj\Debug\net9.0\CVGenerationSolution.csproj.CoreCompileInputs.cache
+C:\Users\PC\CVTemplateEditor\obj\Debug\net9.0\CVGenerationSolution.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\CVTemplateEditor\obj\Debug\net9.0\CVGenerationSolution.sourcelink.json
+C:\Users\PC\CVTemplateEditor\obj\Debug\net9.0\scopedcss\bundle\CVGenerationSolution.styles.css
+C:\Users\PC\CVTemplateEditor\obj\Debug\net9.0\compressed\vki41payv1-kwycgwjwvw.gz
+C:\Users\PC\CVTemplateEditor\obj\Debug\net9.0\compressed\829cng4fa3-s52qqzz2sa.gz
+C:\Users\PC\CVTemplateEditor\obj\Debug\net9.0\compressed\ny4ek5fskw-e4gp6ak00m.gz
+C:\Users\PC\CVTemplateEditor\obj\Debug\net9.0\compressed\371v43dxo8-gm5xw7c7eo.gz
+C:\Users\PC\CVTemplateEditor\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\PC\CVTemplateEditor\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\PC\CVTemplateEditor\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\PC\CVTemplateEditor\obj\Debug\net9.0\staticwebassets\msbuild.CVGenerationSolution.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\CVTemplateEditor\obj\Debug\net9.0\staticwebassets\msbuild.CVGenerationSolution.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\PC\CVTemplateEditor\obj\Debug\net9.0\staticwebassets\msbuild.build.CVGenerationSolution.props
+C:\Users\PC\CVTemplateEditor\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.CVGenerationSolution.props
+C:\Users\PC\CVTemplateEditor\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.CVGenerationSolution.props
+C:\Users\PC\CVTemplateEditor\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\PC\CVTemplateEditor\obj\Debug\net9.0\CVGenera.D1995001.Up2Date
+C:\Users\PC\CVTemplateEditor\obj\Debug\net9.0\CVGenerationSolution.dll
+C:\Users\PC\CVTemplateEditor\obj\Debug\net9.0\refint\CVGenerationSolution.dll
+C:\Users\PC\CVTemplateEditor\obj\Debug\net9.0\CVGenerationSolution.pdb
+C:\Users\PC\CVTemplateEditor\obj\Debug\net9.0\CVGenerationSolution.genruntimeconfig.cache
+C:\Users\PC\CVTemplateEditor\obj\Debug\net9.0\ref\CVGenerationSolution.dll
+C:\Users\PC\CVTemplateEditor\obj\Debug\net9.0\compressed\w3alp5jblb-moa3b3l4jg.gz
